@@ -1,7 +1,9 @@
 # TaskManager
 
-Conclusão de Tarefas
+Sistema para gerenciamento de tarefas.
 
-Definição de Prioridade das Tarefas
+Conclusão de tarefas
+
+Definição de prioridade das tarefas
 
 ## Versão 1.0.0
